@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199334944640",
+    "project_id": "taskappwithsol",
+    "storage_bucket": "taskappwithsol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199334944640:android:6ba99d158b360da13a6b65",
+        "android_client_info": {
+          "package_name": "com.example.taskappwithsql"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgofKreSzEtaCERdpmUTjoWAtsp4JbpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

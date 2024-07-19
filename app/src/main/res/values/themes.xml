@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TaskappwithSQL" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/orange</item>
+    </style>
+
+    <style name="Theme.TaskappwithSQL" parent="Base.Theme.TaskappwithSQL" />
+    <style name="Theme.TaskappwithSQL.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.TaskappwithSQL.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.TaskappwithSQL.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
